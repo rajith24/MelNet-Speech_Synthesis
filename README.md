@@ -1,2 +1,2 @@
-# Voice_Cloning-Speech_Synthesis
+# MelNet-Speech_Synthesis
 Cloning peoples voice as an AI voice
