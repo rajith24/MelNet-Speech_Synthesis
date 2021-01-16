@@ -1,0 +1,16 @@
+tensorflow==1.15
+umap-learn
+visdom
+librosa>=0.5.1
+matplotlib>=2.0.2
+numpy>=1.14.0
+scipy>=1.0.0
+tqdm
+sounddevice
+SoundFile
+Unidecode
+inflect
+PyQt5
+multiprocess
+numba==0.48
+torch==1.6.0+cpu torchvision==0.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
